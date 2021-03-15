@@ -1,0 +1,41 @@
+Cвободное место на диске: 701 ГБ: 19.12.2020 10:10:51
+Тип файловой системы и тип диска C: Fixed, NTFS: 19.12.2020 10:10:51
+ Метка тома: Windows: 19.12.2020 10:10:51
+ Метка тома: LENOVO: 19.12.2020 10:10:51
+Кол-во файлов в каталоге C:\Users\Lenovo PC\Desktop\ООТП\Lab13: 1: 19.12.2020 10:10:51
+Время создания каталога C:\Users\Lenovo PC\Desktop\ООТП\Lab13: 12.12.2020 10:49:23: 19.12.2020 10:10:51
+Родительский каталог каталога C:\Users\Lenovo PC\Desktop\ООТП\Lab13: C:\Users\Lenovo PC\Desktop\ООТП: 19.12.2020 10:10:51
+Количество подкаталогов в каталоге C:\Users\Lenovo PC\Desktop\ООТП\Lab13: 2: 19.12.2020 10:10:51
+Полный путь к файлу Program.cs: C:\Users\Lenovo PC\Desktop\ООТП\Lab13\Lab13\Program.cs: 19.12.2020 10:10:51
+ Размер файла: 1512: 19.12.2020 10:10:51
+Время создания файла Program.cs: 18.12.2020 21:19:32: 19.12.2020 10:10:51
+GAAdiskinfo: C:\
+Cвободное место на диске: 701 ГБ: 19.12.2020 12:01:32
+GAAliskinfo: C:\
+Тип файловой системы и тип диска C: Fixed, NTFS: 19.12.2020 12:01:32
+GAAdiskInfo: C:\
+Имя: C:\ 
+ Объем: 972021559296 
+ Доступный объем: 753069268992 
+ Метка тома: Windows: 19.12.2020 12:01:32
+GAAdiskInfo: D:\
+Имя: D:\ 
+ Объем: 26843541504 
+ Доступный объем: 4924030976 
+ Метка тома: LENOVO: 19.12.2020 12:01:32
+GAAdirInfo: C:\Users\Lenovo PC\Desktop\ООТП\Lab13
+Кол-во файлов в каталоге C:\Users\Lenovo PC\Desktop\ООТП\Lab13: 1: 19.12.2020 12:01:32
+GAAdirInfo: C:\Users\Lenovo PC\Desktop\ООТП\Lab13
+Время создания каталога C:\Users\Lenovo PC\Desktop\ООТП\Lab13: 12.12.2020 10:49:23: 19.12.2020 12:01:33
+GAAdirInfo: C:\Users\Lenovo PC\Desktop\ООТП\Lab13
+Родительский каталог каталога C:\Users\Lenovo PC\Desktop\ООТП\Lab13: C:\Users\Lenovo PC\Desktop\ООТП: 19.12.2020 12:01:33
+GAAdirInfo: C:\Users\Lenovo PC\Desktop\ООТП\Lab13
+Количество подкаталогов в каталоге C:\Users\Lenovo PC\Desktop\ООТП\Lab13: 2: 19.12.2020 12:01:33
+GAAfileInfo: Program.cs
+Полный путь к файлу Program.cs: C:\Users\Lenovo PC\Desktop\ООТП\Lab13\Lab13\Program.cs: 19.12.2020 12:01:33
+GAAfileInfo: Program.cs
+Имя файла: Program.cs 
+ Расширение файла: .cs 
+ Размер файла: 1512: 19.12.2020 12:01:33
+GAAfileInfo: C:\Users\Lenovo PC\Desktop\ООТП\Lab13\Lab13\Program.cs
+Время создания файла Program.cs: 18.12.2020 21:19:32: 19.12.2020 12:01:33

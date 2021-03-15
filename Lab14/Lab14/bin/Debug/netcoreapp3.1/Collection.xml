@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfPlant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Plant>
+    <Name>Rose</Name>
+    <Alive>true</Alive>
+  </Plant>
+  <Plant>
+    <Name>Glasiolus</Name>
+    <Alive>false</Alive>
+  </Plant>
+  <Plant>
+    <Name>Sunflower</Name>
+    <Alive>true</Alive>
+  </Plant>
+</ArrayOfPlant>
